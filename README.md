@@ -1,4 +1,4 @@
-# Learning Recyclerview by build some test app.
+# Learning Recyclerview by build small test app.
 
 Using by
 * MVVM Architecture
