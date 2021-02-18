@@ -5,3 +5,4 @@ Using by
 * Recyclerview + Adapter
 * Data binding
 * Observable pattern
+* DiffUtil
